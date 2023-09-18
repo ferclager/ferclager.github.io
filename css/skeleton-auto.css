@@ -222,6 +222,7 @@ hr {
   height: 128px;
   object-fit: cover;
   background-position: center;
+  border: 1px solid white;
   border-radius: 50%;
 }
 
